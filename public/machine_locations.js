@@ -132,7 +132,7 @@ var machine_locations = {
             "properties": {
                 "name": "Manufacturing Innovation Learning Laboratory",
                 "nick": "The MILL",
-                "thumbnail":"",
+                "thumbnail":"public/images/buildings/CII.jpg",
                 "description": "Manufacturing/maching shop located in the CII.",
                 "popupContent": "Manufacturing Innovation Learning Laboratory",
                 "type": "machine"
