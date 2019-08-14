@@ -93,7 +93,7 @@ var machine_locations = {
             "properties": {
                 "name": "Maker Space: The Forge",
                 "nick": "The Forge",
-                "thumbnail": "http://manufacturing.eng.rpi.edu/sites/default/files/facilities/Forge.jpg",
+                "thumbnail": "public/images/buildings/Forge.jpg",
                 "description": "Maker Space located in",
                 "popupContent": "Design Lab/IED Shop",
                 "type": "machine"
