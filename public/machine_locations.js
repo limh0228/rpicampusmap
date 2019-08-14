@@ -94,7 +94,7 @@ var machine_locations = {
                 "name": "Maker Space: The Forge",
                 "nick": "The Forge",
                 "thumbnail": "public/images/buildings/Forge.jpg",
-                "description": "Maker Space located in",
+                "description": "Maker Space located in CII",
                 "popupContent": "Design Lab/IED Shop",
                 "type": "machine"
             },
@@ -114,7 +114,8 @@ var machine_locations = {
                 },
                 "info": "The Forge charges $10 per semester for students to gain access to\n\
                 all of the machines. Afterwards, students are charged $0.05/gram of filament\n\
-                for the 3D Printer and $0.50 per hour of light time for the laser cutter.",
+                for the 3D Printer and $0.50 per hour of light time for the laser cutter.\n\
+				Website: http://manufacturing.eng.rpi.edu/facilities/forge ",
                 "location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
             },
             "contents": {
