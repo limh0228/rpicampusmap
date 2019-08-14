@@ -21,7 +21,7 @@ This project was originally commissioned by Sam Chiappone (Director of Manufactu
 * 7/29/2019 - Stable version of Machines Map on the forgemill branch. Map has basic preliminary functions including map legend, searchable machines, and machine shops in database.
 
 ### Getting Started
-To contribute to RPI Machines Map, see the getting started guide in [documentation/CM_README.md](CM_README.md). Then, switch to the Machines Map branch by running the command `git checkout forgemill` for the stable version and `git checkout forgemill-dev` for the developers branch. Most changes will most likely go on the developer's branch, and changes should only be pushed to the stable branch if you are sure your code is not broken.
+To contribute to RPI Machines Map, see the getting started guide in [documentation/CM_README.md](documentation/CM_README.md). Then, switch to the Machines Map branch by running the command `git checkout forgemill` for the stable version and `git checkout forgemill-dev` for the developers branch. Most changes will most likely go on the developer's branch, and changes should only be pushed to the stable branch if you are sure your code is not broken.
 
 To read more about the technologies used in this project, see the 'documentation' folder in the forgemill-dev branch.
 
