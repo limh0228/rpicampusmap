@@ -7,7 +7,7 @@ var machine_locations = {
             "properties": {
                 "name": "JEC Student Machines Shop",
                 "nick": "Processes Shop",
-                "thumbnail":"https://www.rpiviews.com/images/rpi/card00188_fr.jpg",
+                "thumbnail":"public/images/buildings/JEC.jpg",
                 "description": "Machine Shop located in JEC",
                 "popupContent": "JEC Student Machines Shop",
                 "type": "machine"
