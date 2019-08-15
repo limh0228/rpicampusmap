@@ -32,7 +32,8 @@ var machine_locations = {
                 They must show proof of taking and passing the class to shop supervisors.\n\
                 Afterwards, all students are welcome to use the machines in the JEC Student Machines Shop.\n\
                 No prior knowledge of machining is required. However, it is recommended\n\
-                that students take Engineering Processes (ENGR 1300).",
+                that students take Engineering Processes (ENGR 1300) \n\.
+				Website: http://manufacturing.eng.rpi.edu/facilities/jecshop",
                 "location": "Jonsson Engineering Center (JEC) 1010"
             },
             "contents": {
@@ -75,7 +76,8 @@ var machine_locations = {
                 Laboratories-Safety Orientation listed on RPI HR Skillport Site. \n\
                 They must show proof of taking and passing the class to shop supervisors.\n\
                 Afterwards, usage of machines is determined on case-by-case basis.\n\
-                Students are always welcome to see the shop supervisor to discuss their projects.",
+                Students are always welcome to see the shop supervisor to discuss their projects. \n\
+				Website: http://manufacturing.eng.rpi.edu/facilities/design-lab",
                 "location": "Jonsson Engineering Center (JEC) Room 2332"
             },
             "contents": {
@@ -114,7 +116,7 @@ var machine_locations = {
                 },
                 "info": "The Forge charges $10 per semester for students to gain access to\n\
                 all of the machines. Afterwards, students are charged $0.05/gram of filament\n\
-                for the 3D Printer and $0.50 per hour of light time for the laser cutter.\n\
+                for the 3D Printer and $0.50 per hour of light time for the laser cutter..\n\
 				Website: http://manufacturing.eng.rpi.edu/facilities/forge ",
                 "location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
             },
@@ -157,7 +159,8 @@ var machine_locations = {
                 Laboratories-Safety Orientation listed on RPI HR Skillport Site. \n\
                 They must show proof of taking and passing the class to shop supervisors.\n\
                 Afterwards, usage of machines is determined on case-by-case basis.\n\
-                Students are always welcome to see the shop supervisor to discuss their projects.",
+                Students are always welcome to see the shop supervisor to discuss their projects. \n\
+				Website: http://manufacturing.eng.rpi.edu/facilities/mill",
                 "location": "George M. Low Center for Industrial Innovation (CII) Room 1027"
             },
             "contents": {
