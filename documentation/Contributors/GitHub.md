@@ -16,7 +16,7 @@ You will be using Git to share your changes with everyone else.
 At the top right, click on the + and click "New repository". You may name it whatever you wish.
 Check the box saying "Initialize this repository with a README"
 
-![Creating Repository](Images/Creating Repository.png)
+![Creating Repository](Images/Creating_Repo.png)
 
 ## Step 2: Clone to your machine
 Currently, your new repository is on Github. While it is possible to make all your changes there,
