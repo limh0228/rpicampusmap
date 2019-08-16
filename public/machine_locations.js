@@ -34,7 +34,7 @@ var machine_locations = {
                 No prior knowledge of machining is required. However, it is recommended\n\
                 that students take Engineering Processes (ENGR 1300)\n\
                 http://manufacturing.eng.rpi.edu/facilities/jecshop	",
-                "location": "Jonsson Engineering Center (JEC) 1010"
+                "room_location": "Jonsson Engineering Center (JEC) 1010"
             },
             "contents": {
                 "machines": ["Haas TL 1 CNC Lathe", "Acer 3-Axis CNC Milling Machine",
@@ -78,7 +78,7 @@ var machine_locations = {
                 Afterwards, usage of machines is determined on case-by-case basis.\n\
                 Students are always welcome to see the shop supervisor to discuss their projects. \n\
                 Website: http://manufacturing.eng.rpi.edu/facilities/design-lab",
-                "location": "Jonsson Engineering Center (JEC) Room 2332"
+                "room_location": "Jonsson Engineering Center (JEC) Room 2332"
             },
             "contents": {
                 "machines": ["Haas CNC Control Simulators", "Haas Mini Mill", "Haas SL 10",
@@ -118,7 +118,7 @@ var machine_locations = {
                 all of the machines. Afterwards, students are charged $0.05/gram of filament\n\
                 for the 3D Printer and $0.50 per hour of light time for the laser cutter..\n\
                 Website: http://manufacturing.eng.rpi.edu/facilities/forge ",
-                "location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
+                "room_location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
             },
             "contents": {
                 "machines": ["3D Scanners","Form 1+ 3D Printer","gCreate 3D Printer",
@@ -161,7 +161,7 @@ var machine_locations = {
                 Afterwards, usage of machines is determined on case-by-case basis.\n\
                 Students are always welcome to see the shop supervisor to discuss their projects. \n\
                 Website: http://manufacturing.eng.rpi.edu/facilities/mill",
-                "location": "George M. Low Center for Industrial Innovation (CII) Room 1027"
+                "room_location": "George M. Low Center for Industrial Innovation (CII) Room 1027"
             },
             "contents": {
                 "machines": ["Haas VF 1 – CNC Milling Machine",
