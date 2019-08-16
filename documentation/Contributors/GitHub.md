@@ -103,6 +103,6 @@ someone else's code. Branching is useful when you are developing other features,
 ## Final Notes
   * There is more to Github than pushing, pulling, cloning and branching but this is sufficient to work on RPI Campus Map and RPI Machines Map.
   * If you want more hands-on experience in committing and branching, 
-  check out this great guide [here](https://learngitbranching.js.org/)
+  check out this great interactive guide [here](https://learngitbranching.js.org/)
   * And if you want to learn more about Github, check out [forking and pull requests](https://guides.github.com/activities/forking/).
 
