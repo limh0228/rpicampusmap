@@ -24,11 +24,11 @@ it is much more convenient to have a copy of the repository on your computer and
 Click on the green box, "Clone or download". Copy the text or click on the clipboard to copy.
 Open a terminal and cd to where you want to place your copy. Type `git clone` and paste the link you copied.
 
+![Clone](Images/Clone.png)
+
 `cd ~/Documents`
 
 `git clone https://github.com/Riantix/Temporary.git`
-
-![Clone](Images/Clone.png)
 
 ## Step 3: Make some changes
 In your folder (mine is called Temporary), you will see a README.md file. Edit it to say "Hello Hello!".
@@ -40,7 +40,8 @@ Type `git add README.md`.
   * If you now type `git status`, it will now be green and under a different list
 (Changes to be committed). 
 
-Type `git commit -m "Added a greeting!"`. You may replace the text in quotes as you wish.
+Type `git commit -m "Added a greeting!"`. You may replace the text in quotes as you wish. The message is typically helpful
+text that indicates what you changed.
   * Now if you type `git status` it will say "Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)". This means that your copy is ahead of the version in Github. It's time to push!
 
@@ -61,6 +62,11 @@ changes. Publishing your changes is called "pushing".
 For example, after you fixed a bug on the program and you "pushed" it on Git,
 you'll tell the other people that you "pushed" the changes and they should
 go check it out. 
+
+**git add**: Adds files to be committed later.
+
+**git commit**: Commits files that were added previously. Adding -m and "a message" gives the files a commit message. Once you
+have committed, all you need to do is **git push**
 
 **Pulling**: Getting changes someone else made onto your computer. As a general rule, pull often!
 
