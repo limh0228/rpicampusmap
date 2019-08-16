@@ -24,7 +24,7 @@
 				"sun": "2-6 p.m."
 			},
 			"info": "All students who intend to use the machines in this room\nmust pass the SOE Safety Test Rensselaer Manufacturing and Prototyping\nLaboratories - Safety Orientation listed on RPI HR Skillport Site.\nThey must show proof of taking and passing the class to shop supervisors.\nAfterwards, all students are welcome to use the machines in the JEC Student Machines Shop.\nNo prior knowledge of machining is required. However, it is recommended\nthat students take Engineering Processes(ENGR 1300).",
-			"room_location": "Jonsson Engineering Center (JEC) 1010"
+			"location": "Jonsson Engineering Center (JEC) 1010"
 		},
 		"contents": {
 			"machines": ["Haas TL 1 CNC Lathe", "Acer 3-Axis CNC Milling Machine",
@@ -64,7 +64,7 @@
 				"sun": ""
 			},
 			"info": "All students who intend to use the machines in this room\nmust pass the SOE Safety Test Rensselaer Manufacturing and Prototyping\nLaboratories - Safety Orientation listed on RPI HR Skillport Site.\nThey must show proof of taking and passing the class to shop supervisors.\nAfterwards, usage of machines is determined on case-by-case basis.\nStudents are always welcome to see the shop supervisor to discuss their projects.",
-			"room_location": "Jonsson Engineering Center (JEC) Room 2332"
+			"location": "Jonsson Engineering Center (JEC) Room 2332"
 		},
 		"contents": {
 			"machines": ["Haas CNC Control Simulators", "Haas Mini Mill", "Haas SL 10",
@@ -102,7 +102,7 @@
 				"sun": ""
 			},
 			"info": "The Forge charges $10 per semester for students to gain access to\nall of the machines.Afterwards, students are charged $0 .05 / gram of filament\nfor the 3 D Printer and $0 .50 per hour of light time for the laser cutter.",
-			"room_location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
+			"location": "George M. Low Center for Industrial Innovation (CII) Room 2037"
 		},
 		"contents": {
 			"machines": ["3D Scanners", "Form 1+ 3D Printer", "gCreate 3D Printer",
@@ -140,7 +140,7 @@
 				"sun": ""
 			},
 			"info": "All students who intend to use the machines in this room\nmust pass the SOE Safety Test Rensselaer Manufacturing and Prototyping\nLaboratories - Safety Orientation listed on RPI HR Skillport Site.\nThey must show proof of taking and passing the class to shop supervisors.\nAfterwards, usage of machines is determined on case-by-case basis.\nStudents are always welcome to see the shop supervisor to discuss their projects.",
-			"room_location": "George M. Low Center for Industrial Innovation (CII) Room 1027"
+			"location": "George M. Low Center for Industrial Innovation (CII) Room 1027"
 		},
 		"contents": {
 			"machines": ["Haas VF 1 – CNC Milling Machine",
