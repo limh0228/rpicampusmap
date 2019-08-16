@@ -12,13 +12,54 @@ Once you have a GitHub account, download Git
 ![here](https://git-scm.com/downloads).
 You will be using Git to share your changes with everyone else.
 
+## Step 1: Create a repository
+At the top right, click on the + and click "New repository". You may name it whatever you wish.
+Check the box saying "Initialize this repository with a README"
+
+## Step 2: Clone to your machine
+Currently, your new repository is on Github. While it is possible to make all your changes there,
+it is much more convenient to have a copy of the repository on your computer and edit it there.
+Click on the green box, "Clone or download". Copy the text or click on the clipboard to copy.
+Open a terminal and cd to where you want to place your copy. Type `git clone` and paste the link you copied.
+
+`cd ~/Documents`
+
+`git clone https://github.com/Riantix/Temporary.git`
+
+## Step 3: Make some changes
+In your folder (mine is called Temporary), you will see a README.md file. Edit it to say "Hello Hello!".
+  * After editing if you type `git status` you will notice that it says `modified: README.md` in red (under
+Changes not staged for commit)
+
+## Step 4: Push changes
+Type `git add README.md`. 
+  * If you now type `git status`, it will now be green and under a different list
+(Changes to be committed). 
+
+Type `git commit -m "Added a greeting!"`. You may replace the text in quotes as you wish.
+  * Now if you type `git status` it will say "Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)". This means that your copy is ahead of the version in Github. It's time to push!
+
+Type `git push`. If necessary, enter your username and password.
+  * Github should now be updated. Refresh the webpage to see your changes! Now everyone working on the repository can see
+  your changes.
+
+
+
 ### Git Terminology:
 In order to make sure everyone is on the same page, here are some Git terminology
 that you should use so everyone knows what you're saying.
 
-After you make any changes to the project, you will need to publish your 
+**Pushing**:  After you make any changes to the project, you will need to publish your 
 changes using Git so everyone else working on the project can see your
 changes. Publishing your changes is called "pushing". 
 For example, after you fixed a bug on the program and you "pushed" it on Git,
 you'll tell the other people that you "pushed" the changes and they should
 go check it out. 
+
+**Pulling**: Getting changes someone else made onto your computer. As a general rule, pull often!
+
+**Merging**: Occurs when both you and someone else are trying to make changes to the same
+document. Merging refers to resolving any problems between your and the other person's changes.
+Once you do so, you can push your merged changes!
+
