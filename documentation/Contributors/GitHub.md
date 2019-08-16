@@ -28,6 +28,8 @@ Open a terminal and cd to where you want to place your copy. Type `git clone` an
 
 `git clone https://github.com/Riantix/Temporary.git`
 
+![Clone](Images/Clone.png)
+
 ## Step 3: Make some changes
 In your folder (mine is called Temporary), you will see a README.md file. Edit it to say "Hello Hello!".
   * After editing if you type `git status` you will notice that it says `modified: README.md` in red (under
