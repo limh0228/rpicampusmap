@@ -1,6 +1,8 @@
 app.controller('machineInfoController', function($scope, $http) {
   console.log("machineInfoController activated!");
-
+  /* Receives array of machine information from server.js and 
+	stores each machine feature into a variable to be accessed
+	by machine_sites_info.html later */
   const parameters = getParams();
   console.log(parameters);
   const location = parameters.loc;
@@ -10,7 +12,7 @@ app.controller('machineInfoController', function($scope, $http) {
   .then(function(httpResponse, err) {
     if (err) throw err;
     console.log(httpResponse.data);
-
+	/* Storing array information into variables */
     $scope.id = location;
     $scope.name = httpResponse.data[0].properties.name;
     $scope.nick = 'Nicknames: ' + httpResponse.data[0].properties.nick;

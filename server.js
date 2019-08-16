@@ -198,6 +198,8 @@ app.route('/search')
 });
 
 /* ===================================== INFO ======================================== */
+/* Requests database for machine information, turns the response into an array,
+then sends the array to machineInfoController */
 app.route('/info')
 .get(function (req, res) {
   res.sendFile(__dirname + '/public/views/machine_sites_info.html')
