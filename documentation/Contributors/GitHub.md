@@ -89,7 +89,7 @@ have committed, all you need to do is **git push**
 
 **Pulling**: Getting changes someone else made onto your computer. As a general rule, pull often!
 
-**Merging**: Occurs when both you and someone else are trying to make changes to the same
-document. Merging refers to resolving any problems between your and the other person's changes.
-Once you do so, you can push your merged changes!
+**Merging**: Occurs when both you and someone else are trying to make changes. Merging refers to combining code and resolving any issues  in doing so.
 
+**Branch**: Copying the current code such that you can freely make changes on your branch without affecting
+someone else's code. Branching is useful when you are developing other features, testing code, or making extensive changes.
