@@ -58,17 +58,23 @@ pulling is done by the `git pull` command. Pull frequently, especially before yo
 ## Step 5: Branches
 Type `git branch` in your terminal.
   * You should see `* master`. The star indicates we are currently in the "master" branch.
+
 Now type `git branch square`. 
   * Upon typing `git branch`, you should see "square" under "master". This means that there are two branches, "master" and "square"
+
 Type `git checkout square`.
   * The checkout command changes your current branch to the one specified. Now, we are working in the "square" branch.
-Create a new file called my_square.txt. Add and commit. Push with `git push --set-upstream origin square`.
+  * You can verify this by once again typing `git branch`
+
+Create a new file. Add and commit. Push with `git push --set-upstream origin square`.
   * This push command will make your future pushes from your branch to the square branch in github.
   * Because github does not have a square branch, it will create the branch in github
   * This only needs to be done once. In the future, you can simply push with `git push`
 
 Branches are a great way to modify and save code without breaking anything in the original master branch. If you are satisfied
 with the progress in your branch, you can merge it to master. If you want to remove your progress, you can delete the branch.
+
+![Clone](Images/Branch.png)
 
 
 ## Git Terminology:
